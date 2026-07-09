@@ -162,6 +162,6 @@ Or run just the proxy and configure a tool manually with `logfire gateway serve`
 
 ## See also
 
-- [Using the gateway with agent frameworks](agent-frameworks.md) — route framework model calls through the gateway.
+- [Using the gateway with agent frameworks](./agent-frameworks.md) — route framework model calls through the gateway.
 - [Prompt Management: Access and Prerequisites](../prompt-management/plan-requirements.md) — prompt runs execute through the gateway and spend gateway budget.
 - [Cost & Usage](../../../logfire-costs.md) — plan tiers and how usage is billed.
